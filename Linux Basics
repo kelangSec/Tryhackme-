@@ -1,0 +1,40 @@
+# TryHackMe Linux Basics Lab – Day 1
+
+## Overview
+Today I completed my first TryHackMe cybersecurity lab focused on Linux fundamentals.  
+This lab helped me understand the basics needed for SOC and penetration testing.
+
+---
+
+## Topics Covered
+- Linux basics  
+- File system navigation  
+- Permissions and chmod  
+- Essential commands: ls, cd, chmod, grep
+
+---
+
+## Key Commands & Notes
+- `ls` → list files  
+- `cd` → navigate directories  
+- `chmod` → change file permissions  
+- `grep` → search text within files
+
+---
+
+## Lessons Learned
+1. Cybersecurity isn’t about fancy tools — fundamentals matter more.  
+2. Small daily practice compounds into real skill.  
+3. Documenting work publicly helps learning and credibility.
+
+---
+
+## Next Steps
+- Practice Linux navigation daily  
+- Complete networking fundamentals on TryHackMe  
+- Start building a lab portfolio with screenshots
+
+---
+
+*Author: Nchia Boris 
+*Date: 03/02/2026
