@@ -1,0 +1,64 @@
+# TryHackMe – Day 2 Notes (Networking Basics)
+
+## Room Focus
+Networking fundamentals + Linux command line basics
+
+---
+
+## Topics Covered
+- IP addressing
+- Subnetting basics (CIDR)
+- Network ranges
+- File system navigation
+- Permissions
+- Common Linux commands
+
+---
+
+## Commands Practiced
+
+### File navigation
+pwd
+ls
+cd
+
+### File search
+grep
+
+### Permissions
+chmod
+
+### Network testing
+ping
+ifconfig / ipconfig
+traceroute
+
+---
+
+## Key Lessons Learned
+
+1. Networking is foundational for cybersecurity
+   Without understanding IPs and subnets, scanning and enumeration are confusing.
+
+2. Don’t memorize commands
+   Understanding what each command does makes troubleshooting easier.
+
+3. Practice > theory
+   Hands-on labs helped more than reading alone.
+
+---
+
+## Challenges Faced
+- Subnetting calculations were confusing at first
+- Remembering CIDR notation took practice
+
+---
+
+## Next Step
+- Deeper networking labs
+- More Linux practice
+- Start using Nmap soon
+
+---
+
+Documenting my daily cybersecurity learning journey.
