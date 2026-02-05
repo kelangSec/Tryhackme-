@@ -9,3 +9,10 @@ How devices find each other using ARP
 Basic troubleshooting with ping and traceroute
 Hands-on practice
 Commands I tested:
+ip a
+ip route
+ping 8.8.8.8
+traceroute google.com
+arp -a
+netstat -tulnp
+
