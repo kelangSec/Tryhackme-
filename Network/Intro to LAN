@@ -1,1 +1,11 @@
-
+Today I focused on understanding Local Area Networks (LANs) as part of my cybersecurity foundation.
+Even without premium labs, I’m learning the concepts manually and practicing on my Linux machine.
+What I learned
+What a LAN is and how devices communicate inside a local network
+Private vs Public IP addresses
+Role of routers, switches, and access points
+How DHCP assigns IP addresses automatically
+How devices find each other using ARP
+Basic troubleshooting with ping and traceroute
+Hands-on practice
+Commands I tested:
