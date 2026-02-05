@@ -16,3 +16,11 @@ traceroute google.com
 arp -a
 netstat -tulnp
 
+Key takeaway
+Understanding how traffic moves inside a LAN makes:
+troubleshooting easier
+packet analysis clearer
+SOC investigations faster
+Cybersecurity starts with strong networking fundamentals.
+Slow and consistent learning every day.
+#Cybersecurity #Networking #Linux #TryHackMe #LearningInPublic #KelangSec
